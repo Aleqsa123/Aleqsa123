@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Aleqsa123
+- 👋 Hi, I’m Aleksi Merebashvili, @Aleqsa123.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning HTML an CSS.
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning JavaScript.
+- 💞️ I’m looking to collaborate on Junior projects.
 - 📫 How to reach me ...
 
 <!---
