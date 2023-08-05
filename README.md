@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Aleksi Merebashvili, @Aleqsa123.
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning ReactJS and NodeJS.
 - 💞️ I’m looking to collaborate on Junior projects.
 - 📫 How to reach me ...
 
