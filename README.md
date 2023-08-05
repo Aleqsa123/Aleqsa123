@@ -2,9 +2,8 @@
 - 👀 I’m interested in programming.
 - 🌱 I’m currently learning ReactJS and NodeJS.
 - 💞️ I’m looking to collaborate on Junior projects.
-- 📫 How to reach me ...
-
-<!---
-Aleqsa123/Aleqsa123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 📫 How to reach me :
+  Github - [Aleqsa123](https://github.com/Aleqsa123)
+  Linkedin - [Aleksi Merebashvili](https://www.linkedin.com/in/aleksi-merebashvili-36627426/)
+  Facebook - [Aleksi Merebashvili](https://www.facebook.com/aleksi.merebashvili)
+  Frontendmentor - [Aleqsa123] (https://www.frontendmentor.io/profile/Aleqsa123)
